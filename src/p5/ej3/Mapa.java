@@ -173,10 +173,6 @@ public class Mapa {
     }
     
     
-    
-    
-    
-    
     public static void main(String[] args){
         // 1. Crear grafo
         Graph<String> grafo = new AdjListGraph<>();
